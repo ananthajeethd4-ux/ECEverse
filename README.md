@@ -6,7 +6,7 @@ ECEverse is a web platform being developed for Electronics and Communication Eng
 
 It aims to bring component references, circuit exploration, and practical project learning into one clear, accessible interface.
 
-**🌐 Live website:** [eceverse1.vercel.app](https://eceverse1.vercel.app/)
+**🌐 Live website:** [eceverse2.vercel.app](https://eceverse2.vercel.app/)
 
 ---
 
@@ -97,7 +97,7 @@ Structured topics progressing from basic electronics to embedded systems, wirele
 
 ## Using the Website
 
-1. Open [ECEverse](https://eceverse1.vercel.app/).
+1. Open [ECEverse](https://eceverse2.vercel.app/).
 2. Explore the available sections.
 3. Select a component or topic to view its available information.
 4. Use the implemented project and workspace features.
