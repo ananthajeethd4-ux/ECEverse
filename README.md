@@ -111,12 +111,12 @@ Update this table to match the repository.
 
 | Layer | Technology |
 |-------|------------|
-| Frontend | [Add framework or library] |
-| Styling | [Add styling tools] |
-| Circuit rendering | [Add implementation, if applicable] |
-| Simulation | [Add engine, if implemented] |
-| Backend | [Add backend, if applicable] |
-| Database | [Add database, if applicable] |
+| Frontend | React 18.3 + TypeScript 5.6 + Vite 5.4 |
+| Styling | Tailwind CSS 3.4 + Custom CAD Design Tokens |
+| Circuit rendering | Scalable Vector Graphics (SVG) + Dual-Mode Engine |
+| Simulation | Modified Nodal Analysis (MNA) + Web Audio Synthesis |
+| Backend | Vercel Serverless Functions (Node.js 20 / Bun) |
+| Database | PostgreSQL (Supabase / Neon) + LocalStorage Cache |
 | Hosting | Vercel |
 
 ## Local Development
